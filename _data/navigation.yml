@@ -10,3 +10,9 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+  - title: "Blog"
+    url: https://david-bustos.github.io
+  - title: "Portafolio"
+    url: https://david-bustos.github.io
+  - title: "CV"
+    url: https://david-bustos.github.io
