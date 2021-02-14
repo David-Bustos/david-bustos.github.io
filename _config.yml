@@ -95,8 +95,8 @@ analytics:
 # Site Author
 author:
   name             : "David Bustos"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Scientist Enthusiast!"
+  avatar           : \assets\images\perfil-db.jpeg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Industrial Engineer, Data Scientist Enthusiast!"
   location         : "Temuco, Chile"
   email            :
   links:
