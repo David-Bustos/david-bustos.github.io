@@ -52,7 +52,7 @@ reCaptcha:
 atom_feed:
   path                   : # blank (default) uses feed.xml
   hide                   : # true, false (default)
-search                   : # true, false (default)
+search                   : true # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
 algolia:
@@ -96,9 +96,7 @@ analytics:
 author:
   name             : "David Bustos"
   avatar           : /assets/images/perfil-db.jpeg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : 
-  - "Industrial Engineer"
-  - "Data Scientist Enthusiast!"
+  bio              : "Industrial Engineer\nData Scientist Enthusiast!"
   location         : "Temuco, Chile"
   email            :
   links:
