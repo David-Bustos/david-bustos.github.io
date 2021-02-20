@@ -26,10 +26,10 @@ Minimal Mistakes is a flexible two-column Jekyll theme. Perfect for hosting your
 ![](https://img.shields.io/badge/Power_BI-Open_Dashboard-FEC111?logo=Power-BI)
 
 ---
-![](/assets/images/potential_coffee_venues.jpg "Potential Coffee Venues")
+![](/assets/images/potential_coffee_places.jpg "Potential Coffee Venues")
 
 ### Optimal location for Coffee Business in Santiago city [2020]
-![](https://img.shields.io/badge/Colab-Open_Notebook-F9AB00?color=231F20&logo=Google-Colab)
+![](https://img.shields.io/badge/Colab-Open_Notebook-299F3?logo=Google-Colab)
 ![](https://img.shields.io/badge/PDF-Open_Summary-EC1C24?logo=Adobe-Acrobat-Reader)
  >Estudio preliminar de geomarketing en base K-means para la apertura de un local de cafe o similar en la ciudad de Santiago. El cual es desarrollado como Capstone Project para optar al IBM Data Science Professional Certificate.
 
