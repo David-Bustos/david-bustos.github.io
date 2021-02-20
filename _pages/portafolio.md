@@ -22,26 +22,19 @@ Minimal Mistakes is a flexible two-column Jekyll theme. Perfect for hosting your
 
 [Install the Theme]({{ "/docs/quick-start-guide/" | relative_url }}){: .btn .btn--success .btn--large}
 
-### Exploratory Data Analysis: Enseñanza Superior Técnico Profesional [2020]
+### :books: Exploratory Data Analysis: Enseñanza Superior Técnico Profesional [2020]
 ![](https://img.shields.io/badge/Power_BI-Open_Dashboard-FEC111?logo=Power-BI)
 
 ---
+### :coffee: Optimal location for Coffee Business in Santiago city [2020]
+![](https://img.shields.io/badge/Colab-Open_Notebook-1299F3?logo=Google-Colab)
+![](https://img.shields.io/badge/PDF-Open_Summary-EC1C24?logo=Adobe-Acrobat-Reader)
+
 ![](/assets/images/potential_coffee_places.jpg "Potential Coffee Venues")
 
-### Optimal location for Coffee Business in Santiago city [2020]
-![](https://img.shields.io/badge/Colab-Open_Notebook-299F3?logo=Google-Colab)
-![](https://img.shields.io/badge/PDF-Open_Summary-EC1C24?logo=Adobe-Acrobat-Reader)
- >Estudio preliminar de geomarketing en base K-means para la apertura de un local de cafe o similar en la ciudad de Santiago. El cual es desarrollado como Capstone Project para optar al IBM Data Science Professional Certificate.
+ Estudio preliminar de geomarketing en base K-means, para la apertura de un local de café o similar en la ciudad de Santiago. 
 
----
-
-## Exploratory Data Analysis
-
-- Bundled as a "theme gem" for easier install/upgrading.
-- Compatible with GitHub Pages.
-- Support for Jekyll's built-in Sass/SCSS preprocessor.
-- Nine different skins (color variations).
-- Several responsive layout options (single, archive index, search, splash, and paginated home page).
+ >El cual es desarrollado como Capstone Project para optar al IBM Data Science Professional Certificate.
 
 ---
 
