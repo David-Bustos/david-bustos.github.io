@@ -22,11 +22,12 @@ Minimal Mistakes is a flexible two-column Jekyll theme. Perfect for hosting your
 
 [Install the Theme]({{ "/docs/quick-start-guide/" | relative_url }}){: .btn .btn--success .btn--large}
 
+## EDA - Enseñanza Superior Técnico Prodesional [2020]
+![](https://img.shields.io/badge/Power_BI-Open_Dashboard-F2C811?logo=Power BI)
+
 ## Coffee Venues in Santiago de Chile [2020]
-![](https://img.shields.io/badge/Colab-Open_Notebook-F9AB00?logo=GoogleColab)
-![](https://img.shields.io/badge/Colab-Open_Notebook-F9AB00?logo=Googlecolab)
-![](https://img.shields.io/badge/Colab-Open_Notebook-F9AB00?logo=Google%20Colab)
 ![](https://img.shields.io/badge/Colab-Open_Notebook-F9AB00?logo=Google Colab)
+![](https://img.shields.io/badge/PDF-Open_Summary-EC1C24?logo=Adobe Acrobat Reader)
 
 ## Exploratory Data Analysis
 
