@@ -22,12 +22,16 @@ Minimal Mistakes is a flexible two-column Jekyll theme. Perfect for hosting your
 
 [Install the Theme]({{ "/docs/quick-start-guide/" | relative_url }}){: .btn .btn--success .btn--large}
 
-## EDA - Enseñanza Superior Técnico Prodesional [2020]
+### Exploratory Data Analysis: Enseñanza Superior Técnico Prodesional [2020]
 ![](https://img.shields.io/badge/Power_BI-Open_Dashboard-F2C811?logo=Power BI)
 
-## Coffee Venues in Santiago de Chile [2020]
+---
+![](/assets/images/_site/potencial_coffee_venues.JPG "Potential Coffee Venues")
+
+### Optimal location for Coffee Business in Santiago city [2020]
 ![](https://img.shields.io/badge/Colab-Open_Notebook-F9AB00?logo=Google Colab)
 ![](https://img.shields.io/badge/PDF-Open_Summary-EC1C24?logo=Adobe Acrobat Reader)
+ >Estudio de geomarketing preliminar para la apertura de un local de cafe o similar en la ciudad de santiago. El cual es desarrolado como Capstone Project para optar a IBM Data Science Professional Certificate.
 
 ## Exploratory Data Analysis
 
