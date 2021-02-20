@@ -23,7 +23,9 @@ Minimal Mistakes is a flexible two-column Jekyll theme. Perfect for hosting your
 [Install the Theme]({{ "/docs/quick-start-guide/" | relative_url }}){: .btn .btn--success .btn--large}
 
 ## Coffee Venues in Santiago de Chile [2020]
-![](https://img.shields.io/badge/Colab-Open_Notebook-orange?logo=Google_Colab "Colab")
+![](https://img.shields.io/badge/Colab-Open_Notebook-F9AB00?logo=Google_Colab)
+![](https://img.shields.io/badge/Colab-Open_Notebook-F9AB00?logo=Spotify)
+
 
 ## Exploratory Data Analysis
 
