@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "es-CL"
-title                    : "</> DABO"
+title                    : "DABO"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "David Bustos"
@@ -25,8 +25,8 @@ url                      : # the base hostname & protocol for your site e.g. "ht
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+logo                     : /assets/images/code_logo.png # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+masthead_title           : "Darves" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -96,7 +96,7 @@ analytics:
 author:
   name             : "David Bustos"
   avatar           : /assets/images/perfil-db.jpeg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Industrial Engineer\nData Scientist Enthusiast!"
+  bio              : "Industrial Engineer & \n\n Data Scientist Enthusiast!"
   location         : "Temuco, Chile"
   email            :
   links:
