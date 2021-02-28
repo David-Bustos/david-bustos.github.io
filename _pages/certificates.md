@@ -4,9 +4,9 @@ permalink: /certificates/
 title: Certificates
 author_profile: true
 header:
-    overlay_image: /assets/images/joel-filipe-small-warmer.jpg
-    caption: "Photo by [Joel Filipe](https://unsplash.com/@joelfilip) on [Unsplash](https://unsplash.com)"
-classes: wide
+    overlay_image: /assets/images/spiderman_book.jpg
+    #caption: "Photo by [Joel Filipe](https://unsplash.com/@joelfilip) on [Unsplash](https://unsplash.com)"
+#classes: wide
 ---
 
 ### Machine Learning & Deep Learning
@@ -14,11 +14,12 @@ classes: wide
 
 ![](https://img.shields.io/badge/Coursera-Deep_Learning_Specialization-0056D2?style=for-the-badge&logo=Coursera)
 
-1. Neural Networks and Deep Learning
-2. Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
-3. Structuring Machine Learning Projects
-4. Convolutional Neural Networks
-5. Sequence Models
+
+>1. Neural Networks and Deep Learning
+>2. Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
+>3. Structuring Machine Learning Projects
+>4. Convolutional Neural Networks
+>5. Sequence Models
 
 ![](https://img.shields.io/badge/DataCamp-Extreme_Gradient_Boosting_with_XGBoost-03EF62?style=for-the-badge&logo=DataCamp)
 
@@ -32,15 +33,18 @@ classes: wide
 ---
 ![](https://img.shields.io/badge/Coursera-IBM_Data_Science_Professional_Certificate-0056D2?style=for-the-badge&logo=Coursera)
 
-1. What is Data Science?
-2. Open Source Tools for Data Science
-3. Data Science Methodology
-4. Python for Data Science and AI
-5. Databases and SQL for Data Science
-6. Data Analysis with Python
-7. Data Visualization with Python
-8. Machine Leraning with Python
-9. Applied Data Science Capstone
+- 9 cursos
+  - What is Data Science?
+
+>1. What is Data Science?
+>2. Open Source Tools for Data Science
+>3. Data Science Methodology
+>4. Python for Data Science and AI
+>5. Databases and SQL for Data Science
+>6. Data Analysis with Python
+>7. Data Visualization with Python
+>8. Machine Leraning with Python
+>9. Applied Data Science Capstone
 
 
 ![](https://img.shields.io/badge/PUC-Herramientas_de_programación_en_Python_para_procesamiento_de_Datos-20BEFF?style=for-the-badge&logo=)
