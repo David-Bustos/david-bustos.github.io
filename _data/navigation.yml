@@ -13,6 +13,8 @@ main:
   - title: "Portafolio"
     url: https://david-bustos.github.io/portafolio/
   - title: "Blog"
-    url: https://david-bustos.github.io
+    url: https://david-bustos.github.io/blog/
+  - title: "Certificates"
+    url: https://david-bustos.github.io/certificates/
   - title: "CV"
     url: https://david-bustos.github.io/assets/pdf/CV-David-Bustos-Dic-2020.pdf
