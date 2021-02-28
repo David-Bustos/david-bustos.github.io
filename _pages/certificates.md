@@ -5,8 +5,11 @@ title: Certificates
 author_profile: true
 header:
     overlay_image: /assets/images/spiderman_book.jpg
-    #caption: "Photo by [Joel Filipe](https://unsplash.com/@joelfilip) on [Unsplash](https://unsplash.com)"
+    #caption: "Photo by [Joel Filipe](https://unsplash.com/@joelfilip) on [Unsplash](https://unsplash.com)""<span>Photo by <a href="https://unsplash.com/@roadtripwithraj?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Road Trip with Raj</a> on <a href="https://unsplash.com/s/photos/reading?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 #classes: wide
+toc: true
+toc_label: "Table of contents"
+toc_sticky: true
 ---
 
 ### Machine Learning & Deep Learning
@@ -34,7 +37,7 @@ header:
 ![](https://img.shields.io/badge/Coursera-IBM_Data_Science_Professional_Certificate-0056D2?style=for-the-badge&logo=Coursera)
 
 - 9 cursos
-  - What is Data Science?
+  > What is Data Science?
 
 >1. What is Data Science?
 >2. Open Source Tools for Data Science

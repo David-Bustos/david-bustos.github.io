@@ -2,6 +2,9 @@
 title: "Coffee Venues in *Santiago de Chile*"
 categories:
   - Clustering
+header:
+  image: /assets/images/spiderman_book.jpg
+  teaser: /assets/images/spiderman_book.jpg
 tags:
   - KMeans
   - Unsupervised Learning
