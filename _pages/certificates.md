@@ -14,11 +14,11 @@ toc_sticky: true
 ![](https://img.shields.io/badge/Coursera-Deep_Learning_Specialization-0056D2?style=for-the-badge&logo=Coursera)
 
 *5 cursos*
-> Neural Networks and Deep Learning
-> Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
-> Structuring Machine Learning Projects
-> Convolutional Neural Networks
-> Sequence Models
+> Neural Networks and Deep Learning  
+Improving DNN: Hyperparameter Tuning, Regularization and Optimization  
+Structuring Machine Learning Projects  
+Convolutional Neural Networks  
+Sequence Models
 
 ![](https://img.shields.io/badge/DataCamp-Extreme_Gradient_Boosting_with_XGBoost-03EF62?style=for-the-badge&logo=DataCamp)
 
@@ -33,15 +33,15 @@ toc_sticky: true
 ![](https://img.shields.io/badge/Coursera-IBM_Data_Science_Professional_Certificate-0056D2?style=for-the-badge&logo=Coursera)
 
 *9 cursos* 
-> 1. What is Data Science?
-> 2. Open Source Tools for Data Science
-> 3. Data Science Methodology
-> 4. Python for Data Science and AI
-> 5. Databases and SQL for Data Science
-> 6. Data Analysis with Python
-> 7. Data Visualization with Python
-> 8. Machine Leraning with Python
-> 9. Applied Data Science Capstone
+> 1- What is Data Science?
+> 2- Open Source Tools for Data Science
+> 3- Data Science Methodology
+> 4- Python for Data Science and AI
+> 5- Databases and SQL for Data Science
+> 6- Data Analysis with Python
+> 7- Data Visualization with Python
+> 8- Machine Leraning with Python
+> 9- Applied Data Science Capstone
 
 
 ![](https://img.shields.io/badge/PUC-Herramientas_de_programación_en_Python_para_procesamiento_de_Datos-20BEFF?style=for-the-badge&logo=)
