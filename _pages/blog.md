@@ -2,9 +2,9 @@
 title: Blog
 layout: collection
 permalink: /blog/
-collection: post
+collection: posts
 entries_layout: grid
 classes: wide
 ---
 
-Sample document listing for the collection `_portfolio`.
+Sample document listing for the collection `_posts`.
