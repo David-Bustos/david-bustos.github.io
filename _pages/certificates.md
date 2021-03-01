@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /certificates/
+permalink: /
 title: Certificates
 author_profile: true
 toc: true
@@ -10,58 +10,49 @@ toc_sticky: true
 
 ### 🤖 ML & DL
 ---
+#### Deep Learning Specialization [![Certificado](https://img.shields.io/badge/Coursera-5_courses-0056D2?style=flat-square&logo=Coursera)](https://www.coursera.org/account/accomplishments/specialization/ZKKQC7MTGEC7)
+- [ ] Neural Networks and Deep Learning [<i class="fas fa-link" aria-hidden="true"></i>](https://www.coursera.org/account/accomplishments/certificate/H8XEXYZTRM6M) 
+- [ ] Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization [<i class="fas fa-link" aria-hidden="true"></i>](https://www.coursera.org/account/accomplishments/certificate/KUN3QVTWFLUR) 
+- [ ] Structuring Machine Learning Projects [<i class="fas fa-link" aria-hidden="true"></i>](https://www.coursera.org/account/accomplishments/certificate/QG2XZBKLTN5P)  
+- [ ] Convolutional Neural Networks [<i class="fas fa-link" aria-hidden="true"></i>](https://www.coursera.org/account/accomplishments/certificate/GYR8WRU225PY)   
+- [ ] Sequence Models [<i class="fas fa-link" aria-hidden="true"></i>](https://www.coursera.org/account/accomplishments/certificate/YBXCQDUSALBL) 
 
-![](https://img.shields.io/badge/Coursera-Deep_Learning_Specialization-0056D2?style=for-the-badge&logo=Coursera)
+#### Extreme Gradientd Boosting with XGBoost [![](https://img.shields.io/badge/DataCamp-course-03EF62?style=flat-square&logo=DataCamp)](https://www.datacamp.com/statement-of-accomplishment/course/214a6fa22373fb3d9cdca813ac90e542092b8881)
 
-*5 cursos*
-> Neural Networks and Deep Learning  
-Improving DNN: Hyperparameter Tuning, Regularization and Optimization  
-Structuring Machine Learning Projects  
-Convolutional Neural Networks  
-Sequence Models
+#### Deep Learning with TensorFlow [![](https://img.shields.io/badge/Cognitive_Class-course-054ADA?style=flat-square&logo=IBM)](https://courses.cognitiveclass.ai/certificates/988e4f9952664b44b10e1ee5cb8495ac)
 
-![](https://img.shields.io/badge/DataCamp-Extreme_Gradient_Boosting_with_XGBoost-03EF62?style=for-the-badge&logo=DataCamp)
-
-![](https://img.shields.io/badge/Cognitive_Class-Deep_Learning_with_TensorFlow-054ADA?style=for-the-badge&logo=IBM)
-
-![](https://img.shields.io/badge/Coursera-Introducción_a_la_Minería_de_Datos-0056D2?style=for-the-badge&logo=Coursera)
-
-
+#### Introducción a la Minería de Datos [![](https://img.shields.io/badge/Coursera-course-0056D2?style=flat-square&logo=Coursera)](https://www.coursera.org/account/accomplishments/verify/HQJJRA72EKED) 
 
 ### 👨‍💻 Data Science
 ---
-![](https://img.shields.io/badge/Coursera-IBM_Data_Science_Professional_Certificate-0056D2?style=for-the-badge&logo=Coursera)
+#### IBM Data Science Professional Certificate [![](https://img.shields.io/badge/Coursera-9_courses-0056D2?style=flat-square&logo=Coursera)](https://www.coursera.org/account/accomplishments/professional-cert/KGH3ZL494MDQ)
+- [ ] What is Data Science? [<i class="fas fa-link" aria-hidden="true"></i>](https://www.coursera.org/account/accomplishments/certificate/FFE8U7MH3Q7Q)
+- [ ] Open Source Tools for Data Science [<i class="fas fa-link" aria-hidden="true"></i>](https://www.coursera.org/account/accomplishments/certificate/G2PAMXG26FQD)
+- [ ] Data Science Methodology [<i class="fas fa-link" aria-hidden="true"></i>](https://www.coursera.org/account/accomplishments/certificate/K7QX3F743B85)
+- [ ] Python for Data Science and AI [<i class="fas fa-link" aria-hidden="true"></i>](https://www.coursera.org/account/accomplishments/certificate/6GUHSUF5ST4V)
+- [ ] Databases and SQL for Data Science [<i class="fas fa-link" aria-hidden="true"></i>](https://www.coursera.org/account/accomplishments/certificate/9CVNDBSG55FE)
+- [ ] Data Analysis with Python [<i class="fas fa-link" aria-hidden="true"></i>](https://www.coursera.org/account/accomplishments/certificate/PXNTU5HZ6J6E)
+- [ ] Data Visualization with Python [<i class="fas fa-link" aria-hidden="true"></i>](https://www.coursera.org/account/accomplishments/certificate/WXPMFRVEX3N9)
+- [ ] Machine Leraning with Python [<i class="fas fa-link" aria-hidden="true"></i>](https://www.coursera.org/account/accomplishments/certificate/DDXK3ZBYZJE9)
+- [ ] Applied Data Science Capstone [<i class="fas fa-link" aria-hidden="true"></i>](https://www.coursera.org/account/accomplishments/certificate/88LL2NMZK7Q3)
 
-*9 cursos* 
-> 1- What is Data Science?
-> 2- Open Source Tools for Data Science
-> 3- Data Science Methodology
-> 4- Python for Data Science and AI
-> 5- Databases and SQL for Data Science
-> 6- Data Analysis with Python
-> 7- Data Visualization with Python
-> 8- Machine Leraning with Python
-> 9- Applied Data Science Capstone
-
-
-![](https://img.shields.io/badge/PUC-Herramientas_de_programación_en_Python_para_procesamiento_de_Datos-20BEFF?style=for-the-badge&logo=)
+#### Herramientas de programación en Python para procesamiento de Datos [![](https://img.shields.io/badge/PUC-course-20BEFF?style=flat-square&logo=)](david-bustos.github.io/assets/pdf/Python-PUC.pdf)
 
 ### 📊 Data Visualization
 
 ---
-![](https://img.shields.io/badge/edX-Analyzing_and_Visualizing_Data_with_Power_BI-02262B?style=for-the-badge&logo=edX)
+#### Analyzing and Visualizing Data with Power BI [![](https://img.shields.io/badge/edX-course-02262B?style=flat-square&logo=edX)](https://courses.edx.org/certificates/f011cc69b6904aada12ad17bafd91805)
 
-![](https://img.shields.io/badge/DataCamp-Intermediate_Data_Visualization_with_Seaborn-03EF62?style=for-the-badge&logo=DataCamp)
+#### Intermediate Data Visualization with Seaborn [![](https://img.shields.io/badge/DataCamp-course-03EF62?style=flat-square&logo=DataCamp)](https://www.datacamp.com/statement-of-accomplishment/course/981951105c6e446a2d9ea97dd8d6e78dd4647ba5)
 
-![](https://img.shields.io/badge/Google_Analytics-Introduction_to_Data_Studio-E37400?style=for-the-badge&logo=Google-Analytics)
+#### Introduction to Data Studio [![](https://img.shields.io/badge/Google Analytics Academy-course-1a73e8?style=flat-square&logo=Google-Analytics)](https://analytics.google.com/analytics/academy/certificate/HEDeug52R6iqCeF6MUzRAA)
 
 ### 💡 Others
-
 ---
-![](https://img.shields.io/badge/Platzi-Adobe_Xd-98CA3F?style=for-the-badge&logo=Platzi)
+#### Adobe Xd [![](https://img.shields.io/badge/Platzi-course-98CA3F?style=flat-square&logo=Platzi)](https://platzi.com/p/David_Bustos/curso/1637-adobe-xd/diploma/detalle/)
 
-![](https://img.shields.io/badge/eclass_Academy-Desarrollo_Ágil:_Scrum+Kanban-DD1100?style=for-the-badge&logo=)
+#### Desarrollo Ágil: Scrum+Kanban [![](https://img.shields.io/badge/eclass_Academy-course-DD1100?style=flat-square&logo=)](david-bustos.github.io/assets/pdf/Scrum+Kanban.pdf)
 
-![](https://img.shields.io/badge/Sence-Liderazgo-007DB8?style=for-the-badge&logo=)
+#### Liderazgo [![](https://img.shields.io/badge/Sence-course-007DB8?style=flat-square&logo=)](david-bustos.github.io/assets/pdf/Liderazgo-Sence.pdf)
 
-![](https://img.shields.io/badge/ideaUFRO-Bootcamp_Microservices-DC3710?style=for-the-badge&logo=)
+#### Bootcamp Microservices ![](https://img.shields.io/badge/iDEAUFRO-course -DC3710?style=flat-square&logo=)
