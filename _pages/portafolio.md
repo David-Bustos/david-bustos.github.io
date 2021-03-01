@@ -9,6 +9,7 @@ toc_label: "Table of contents"
 toc_sticky: true
 #classes: wide
 ---
+
 Proyectos personales desarrollados...
 
 ### 🛠️ Predicción del n° de Técnicos necesarios para atender requeriemietos Sanitarios [2020]
@@ -30,14 +31,11 @@ Análisis desarrollado a partir de fuentes de datos de SIES y Trabajando. Focali
  Estudio preliminar de geomarketing en base a `K-means`, para la apertura de un local de café o similar en la ciudad de Santiago. 
 {: style="text-align: justify;"}
 
-<figure style="width: 352px" class="align-right">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/ibm_badge.png" alt="">
-  <figcaption>IBM DSPC Badge.</figcaption>
-</figure> 
+<a href="https://www.youracclaim.com/badges/6c617225-3138-4cd5-aefa-7c8c116d8c18/public_url">
+<img src="https://images.youracclaim.com/size/340x340/images/95cdac49-3220-43e7-8562-b8be4b938465/Professional_Certificate_-_Data_Science_-_Final_Draft_-_Blue_Text.png" alt="" align="right" width="80"/>
 
- >Trabajo desarrollado como Capstone Project para optar al  
- **IBM Data Science Professional Certificate**.
-
+>Trabajo desarrollado como Capstone Project para optar al  
+**IBM Data Science Professional Certificate**.
 
 
 ---

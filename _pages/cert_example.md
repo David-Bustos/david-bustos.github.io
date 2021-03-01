@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /certificates/
+permalink: /certificatesexample/
 title: Certificates
 author_profile: true
 header:
