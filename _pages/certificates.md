@@ -45,7 +45,7 @@ toc_sticky: true
 
 #### Intermediate Data Visualization with Seaborn [![](https://img.shields.io/badge/DataCamp-course-03EF62?style=flat-square&logo=DataCamp)](https://www.datacamp.com/statement-of-accomplishment/course/981951105c6e446a2d9ea97dd8d6e78dd4647ba5)
 
-#### Introduction to Data Studio [![](https://img.shields.io/badge/Google_Analytics_Academy-course-1a73e8?style=flat-square&logo=Google-Analytics)](https://analytics.google.com/analytics/academy/certificate/HEDeug52R6iqCeF6MUzRAA)
+#### Introduction to Data Studio [![](https://img.shields.io/badge/Google Analytics Academy-course-1a73e8?style=flat-square&logo=Google-Analytics)](https://analytics.google.com/analytics/academy/certificate/HEDeug52R6iqCeF6MUzRAA)
 
 ### 💡 Others
 ---
