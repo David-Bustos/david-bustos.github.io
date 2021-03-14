@@ -45,14 +45,14 @@ toc_sticky: true
 
 #### Intermediate Data Visualization with Seaborn [![](https://img.shields.io/badge/DataCamp-course-03EF62?style=flat-square&logo=DataCamp)](https://www.datacamp.com/statement-of-accomplishment/course/981951105c6e446a2d9ea97dd8d6e78dd4647ba5)
 
-#### Introduction to Data Studio [![](https://img.shields.io/badge/Google Analytics Academy-course-1a73e8?style=flat-square&logo=Google-Analytics)](https://analytics.google.com/analytics/academy/certificate/HEDeug52R6iqCeF6MUzRAA)
+#### Introduction to Data Studio [![](https://img.shields.io/badge/Google_Analytics_Academy-course-1a73e8?style=flat-square&logo=Google-Analytics)](https://analytics.google.com/analytics/academy/certificate/HEDeug52R6iqCeF6MUzRAA)
 
 ### 💡 Others
 ---
 #### Adobe Xd [![](https://img.shields.io/badge/Platzi-course-98CA3F?style=flat-square&logo=Platzi)](https://platzi.com/p/David_Bustos/curso/1637-adobe-xd/diploma/detalle/)
 
-#### Desarrollo Ágil: Scrum+Kanban [![](https://img.shields.io/badge/eclass_Academy-course-DD1100?style=flat-square&logo=)](david-bustos.github.io/assets/pdf/Scrum+Kanban.pdf)
+#### Desarrollo Ágil: Scrum+Kanban [![](https://img.shields.io/badge/eclass_Academy-course-DD1100?style=flat-square&logo=)](https://david-bustos.github.io/assets/pdf/Scrum+Kanban.pdf)
 
-#### Liderazgo [![](https://img.shields.io/badge/Sence-course-007DB8?style=flat-square&logo=)](david-bustos.github.io/assets/pdf/Liderazgo-Sence.pdf)
+#### Liderazgo [![](https://img.shields.io/badge/Sence-course-007DB8?style=flat-square&logo=)](https://david-bustos.github.io/assets/pdf/Liderazgo-Sence.pdf)
 
-#### Bootcamp Microservices ![](https://img.shields.io/badge/iDEAUFRO-course -DC3710?style=flat-square&logo=)
+#### Bootcamp Microservices [![](https://img.shields.io/badge/iDEAUFRO-course-DC3710?style=flat-square&logo=)](https://ideaufro.com/microservices-bootcamp/)
