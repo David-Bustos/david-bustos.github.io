@@ -12,8 +12,10 @@ toc_sticky: true
 
 Proyectos personales desarrollados...
 
-### 🛠️ Predicción del n° de Técnicos necesarios para atender requeriemietos Sanitarios [2020]
+### 🛠️ Predicción del personal técnico necesario para atender requeriemietos Sanitarios [2020]
 ![](https://img.shields.io/badge/Colab-Open_Notebook-1299F3?logo=Google-Colab)
+
+Caso de estudio para empresa sanitaria, en base a 2 años de registros históricos. Identificando a priori el nivel de *'habilidad'* requerida para atender un requerimiento en particular. Prediciendo en un 83% la necesidad de cuadrillas de 1 o +2 técnicos según sea el caso.
 
 ### 📚 Exploratory Data Analysis: Enseñanza Superior Técnico Profesional [2020]
 ![](https://img.shields.io/badge/Power_BI-Open_Dashboard-FEC111?logo=Power-BI)
